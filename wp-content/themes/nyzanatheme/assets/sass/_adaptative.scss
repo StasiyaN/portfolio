@@ -1,0 +1,80 @@
+//laptop
+
+//front page
+//about
+@media (max-width: 1024px) {
+    .hard-skills-block {
+        margin-left: 12% !important;
+    }
+    .mission-block {
+        width: auto !important;
+    }
+
+    .categories-block {
+        justify-content: center;
+    }
+}
+
+//archive
+@media (max-width: 960px) {
+    .archive-content {
+        margin-left: 0 !important;
+    }
+
+    .email img {
+        display: none;
+    }
+    .header-titles {
+        display: none !important;
+    }
+}
+
+//tablet
+@media (max-width: 781px) {
+    //single project
+
+    .project-heading {
+        margin-left: 55px;
+    }
+    .content-block {
+        flex-direction: column-reverse;
+        flex-wrap: wrap;
+        align-content: center;
+        gap: 0 !important;
+    }
+
+    .mission-skills-block,
+    .photo-block {
+        width: 100% !important;
+    }
+
+    .archive-content { 
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-content: center;
+    }
+
+}
+
+@media (max-width: 599px) {
+    .pagination-single-inner {
+        flex-wrap: wrap;
+        align-content: center;
+    }
+
+  
+  
+}
+
+@media (max-width: 400px) {
+    //front page 
+    * {
+        h2 {
+            font-size: 30px;
+        }
+    }
+
+    .categories-block {
+        gap: 5px;
+    }
+}

@@ -1,0 +1,145 @@
+[2024-08-28 16:44:59 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-08-28 16:45:00 : INFO] - Processing task with ID : 5, and type 'smush' 
+[2024-08-28 16:45:00 : INFO] - Re_Smush_It_Task - attachment ID : 393, started on : August 28, 2024 04:44:59 
+[2024-08-28 16:45:00 : INFO] - File: med-it-slider.jpg, Compression quality: 92 
+[2024-08-28 16:45:00 : INFO] - Backing up the original image - 2024/08/med-it-slider-updraft-pre-smush-original.jpg 
+[2024-08-28 16:45:04 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-28 16:45:04 : INFO] - Successfully optimized the image - /home/azrvhurb/public_html/wp-content/uploads/2024/08/med-it-slider.jpg.The file was compressed from 131.50 KB to 128.23 KB, saving 2.49 percent, using WP-Optimize 
+[2024-08-28 16:45:04 : INFO] - Completed processing task with ID : 5, and type 'smush' 
+[2024-08-28 16:45:21 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-08-28 16:45:22 : INFO] - Processing task with ID : 6, and type 'smush' 
+[2024-08-28 16:45:22 : INFO] - Re_Smush_It_Task - attachment ID : 392, started on : August 28, 2024 04:45:22 
+[2024-08-28 16:45:22 : INFO] - File: chic-dressing-slider.jpg, Compression quality: 92 
+[2024-08-28 16:45:23 : INFO] - Backing up the original image - 2024/08/chic-dressing-slider-updraft-pre-smush-original.jpg 
+[2024-08-28 16:45:25 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-28 16:45:25 : INFO] - Successfully optimized the image - /home/azrvhurb/public_html/wp-content/uploads/2024/08/chic-dressing-slider.jpg.The file was compressed from 131.59 KB to 128.83 KB, saving 2.1 percent, using WP-Optimize 
+[2024-08-28 16:45:25 : INFO] - Completed processing task with ID : 6, and type 'smush' 
+[2024-08-28 16:45:42 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-08-28 16:45:43 : INFO] - Processing task with ID : 7, and type 'smush' 
+[2024-08-28 16:45:43 : INFO] - Re_Smush_It_Task - attachment ID : 385, started on : August 28, 2024 04:45:42 
+[2024-08-28 16:45:43 : INFO] - File: med-it.png, Compression quality: 92 
+[2024-08-28 16:45:44 : INFO] - Backing up the original image - 2024/08/med-it-updraft-pre-smush-original.png 
+[2024-08-28 16:45:46 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-28 16:45:46 : INFO] - Successfully optimized the image - /home/azrvhurb/public_html/wp-content/uploads/2024/08/med-it.png.The file was compressed from 343.89 KB to 102.30 KB, saving 70.25 percent, using WP-Optimize 
+[2024-08-28 16:45:47 : INFO] - Completed processing task with ID : 7, and type 'smush' 
+[2024-08-28 16:45:58 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-08-28 16:45:59 : INFO] - Processing task with ID : 8, and type 'smush' 
+[2024-08-28 16:45:59 : INFO] - Re_Smush_It_Task - attachment ID : 383, started on : August 28, 2024 04:45:58 
+[2024-08-28 16:45:59 : INFO] - File: chic-dressing.png, Compression quality: 92 
+[2024-08-28 16:45:59 : INFO] - Backing up the original image - 2024/08/chic-dressing-updraft-pre-smush-original.png 
+[2024-08-28 16:46:02 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-28 16:46:02 : INFO] - Successfully optimized the image - /home/azrvhurb/public_html/wp-content/uploads/2024/08/chic-dressing.png.The file was compressed from 491.11 KB to 134.81 KB, saving 72.55 percent, using WP-Optimize 
+[2024-08-28 16:46:02 : INFO] - Completed processing task with ID : 8, and type 'smush' 
+[2024-08-28 17:35:09 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-08-28 17:35:11 : INFO] - Processing task with ID : 9, and type 'smush' 
+[2024-08-28 17:35:11 : INFO] - Re_Smush_It_Task - attachment ID : 405, started on : August 28, 2024 05:35:10 
+[2024-08-28 17:35:11 : INFO] - File: SimplVintage-slider-1.jpg, Compression quality: 92 
+[2024-08-28 17:35:12 : INFO] - Backing up the original image - 2024/08/SimplVintage-slider-1-updraft-pre-smush-original.jpg 
+[2024-08-28 17:35:14 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-28 17:35:15 : INFO] - Successfully optimized the image - /home/azrvhurb/public_html/wp-content/uploads/2024/08/SimplVintage-slider-1.jpg.The file was compressed from 62.81 KB to 52.97 KB, saving 15.66 percent, using WP-Optimize 
+[2024-08-28 17:35:15 : INFO] - Completed processing task with ID : 9, and type 'smush' 
+[2024-08-28 17:35:24 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-08-28 17:35:26 : INFO] - Processing task with ID : 10, and type 'smush' 
+[2024-08-28 17:35:26 : INFO] - Re_Smush_It_Task - attachment ID : 404, started on : August 28, 2024 05:35:25 
+[2024-08-28 17:35:26 : INFO] - File: Planty-slider.jpg, Compression quality: 92 
+[2024-08-28 17:35:26 : INFO] - Backing up the original image - 2024/08/Planty-slider-updraft-pre-smush-original.jpg 
+[2024-08-28 17:35:30 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-28 17:35:30 : INFO] - Successfully optimized the image - /home/azrvhurb/public_html/wp-content/uploads/2024/08/Planty-slider.jpg.The file was compressed from 45.04 KB to 41.76 KB, saving 7.3 percent, using WP-Optimize 
+[2024-08-28 17:35:31 : INFO] - Completed processing task with ID : 10, and type 'smush' 
+[2024-08-28 17:35:42 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-08-28 17:35:43 : INFO] - Processing task with ID : 11, and type 'smush' 
+[2024-08-28 17:35:43 : INFO] - Re_Smush_It_Task - attachment ID : 403, started on : August 28, 2024 05:35:43 
+[2024-08-28 17:35:43 : INFO] - File: NatalieMota-slider.jpg, Compression quality: 92 
+[2024-08-28 17:35:44 : INFO] - Backing up the original image - 2024/08/NatalieMota-slider-updraft-pre-smush-original.jpg 
+[2024-08-28 17:35:46 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-28 17:35:46 : INFO] - Successfully optimized the image - /home/azrvhurb/public_html/wp-content/uploads/2024/08/NatalieMota-slider.jpg.The file was compressed from 70.30 KB to 60.50 KB, saving 13.94 percent, using WP-Optimize 
+[2024-08-28 17:35:46 : INFO] - Completed processing task with ID : 11, and type 'smush' 
+[2024-08-28 17:35:59 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-08-28 17:36:00 : INFO] - Processing task with ID : 12, and type 'smush' 
+[2024-08-28 17:36:00 : INFO] - Re_Smush_It_Task - attachment ID : 402, started on : August 28, 2024 05:35:59 
+[2024-08-28 17:36:00 : INFO] - File: Medit-slider.jpg, Compression quality: 92 
+[2024-08-28 17:36:00 : INFO] - Backing up the original image - 2024/08/Medit-slider-updraft-pre-smush-original.jpg 
+[2024-08-28 17:36:02 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-28 17:36:02 : INFO] - Successfully optimized the image - /home/azrvhurb/public_html/wp-content/uploads/2024/08/Medit-slider.jpg.The file was compressed from 53.89 KB to 53.52 KB, saving 0.69 percent, using WP-Optimize 
+[2024-08-28 17:36:03 : INFO] - Completed processing task with ID : 12, and type 'smush' 
+[2024-08-28 17:36:13 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-08-28 17:36:14 : INFO] - Processing task with ID : 13, and type 'smush' 
+[2024-08-28 17:36:14 : INFO] - Re_Smush_It_Task - attachment ID : 401, started on : August 28, 2024 05:36:14 
+[2024-08-28 17:36:14 : INFO] - File: Koukaki-slider-1.jpg, Compression quality: 92 
+[2024-08-28 17:36:14 : INFO] - Backing up the original image - 2024/08/Koukaki-slider-1-updraft-pre-smush-original.jpg 
+[2024-08-28 17:36:17 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-28 17:36:17 : INFO] - Successfully optimized the image - /home/azrvhurb/public_html/wp-content/uploads/2024/08/Koukaki-slider-1.jpg.The file was compressed from 62.93 KB to 53.10 KB, saving 15.62 percent, using WP-Optimize 
+[2024-08-28 17:36:17 : INFO] - Completed processing task with ID : 13, and type 'smush' 
+[2024-08-28 17:36:32 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-08-28 17:36:33 : INFO] - Processing task with ID : 14, and type 'smush' 
+[2024-08-28 17:36:33 : INFO] - Re_Smush_It_Task - attachment ID : 400, started on : August 28, 2024 05:36:32 
+[2024-08-28 17:36:33 : INFO] - File: ChicDressing-slider.jpg, Compression quality: 92 
+[2024-08-28 17:36:33 : INFO] - Backing up the original image - 2024/08/ChicDressing-slider-updraft-pre-smush-original.jpg 
+[2024-08-28 17:36:36 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-28 17:36:36 : INFO] - Successfully optimized the image - /home/azrvhurb/public_html/wp-content/uploads/2024/08/ChicDressing-slider.jpg.The file was compressed from 62.89 KB to 53.62 KB, saving 14.74 percent, using WP-Optimize 
+[2024-08-28 17:36:36 : INFO] - Completed processing task with ID : 14, and type 'smush' 
+[2024-08-28 17:53:08 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-08-28 17:53:09 : INFO] - Processing task with ID : 15, and type 'smush' 
+[2024-08-28 17:53:09 : INFO] - Re_Smush_It_Task - attachment ID : 417, started on : August 28, 2024 05:53:08 
+[2024-08-28 17:53:09 : INFO] - File: SimpleVintage-slider.png, Compression quality: 92 
+[2024-08-28 17:53:09 : INFO] - Backing up the original image - 2024/08/SimpleVintage-slider-updraft-pre-smush-original.png 
+[2024-08-28 17:53:11 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-28 17:53:11 : INFO] - Successfully optimized the image - /home/azrvhurb/public_html/wp-content/uploads/2024/08/SimpleVintage-slider.png.The file was compressed from 237.74 KB to 87.65 KB, saving 63.13 percent, using WP-Optimize 
+[2024-08-28 17:53:11 : INFO] - Completed processing task with ID : 15, and type 'smush' 
+[2024-08-28 17:53:21 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-08-28 17:53:22 : INFO] - Processing task with ID : 16, and type 'smush' 
+[2024-08-28 17:53:22 : INFO] - Re_Smush_It_Task - attachment ID : 416, started on : August 28, 2024 05:53:22 
+[2024-08-28 17:53:22 : INFO] - File: Planty-slider.png, Compression quality: 92 
+[2024-08-28 17:53:23 : INFO] - Backing up the original image - 2024/08/Planty-slider-updraft-pre-smush-original.png 
+[2024-08-28 17:53:24 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-28 17:53:24 : INFO] - Successfully optimized the image - /home/azrvhurb/public_html/wp-content/uploads/2024/08/Planty-slider.png.The file was compressed from 115.35 KB to 48.16 KB, saving 58.25 percent, using WP-Optimize 
+[2024-08-28 17:53:24 : INFO] - Completed processing task with ID : 16, and type 'smush' 
+[2024-08-28 17:53:34 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-08-28 17:53:35 : INFO] - Processing task with ID : 17, and type 'smush' 
+[2024-08-28 17:53:35 : INFO] - Re_Smush_It_Task - attachment ID : 415, started on : August 28, 2024 05:53:35 
+[2024-08-28 17:53:35 : INFO] - File: NathalieMota-slider.png, Compression quality: 92 
+[2024-08-28 17:53:36 : INFO] - Backing up the original image - 2024/08/NathalieMota-slider-updraft-pre-smush-original.png 
+[2024-08-28 17:53:38 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-28 17:53:39 : INFO] - Successfully optimized the image - /home/azrvhurb/public_html/wp-content/uploads/2024/08/NathalieMota-slider.png.The file was compressed from 308.37 KB to 100.99 KB, saving 67.25 percent, using WP-Optimize 
+[2024-08-28 17:53:39 : INFO] - Completed processing task with ID : 17, and type 'smush' 
+[2024-08-28 17:53:50 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-08-28 17:53:51 : INFO] - Processing task with ID : 18, and type 'smush' 
+[2024-08-28 17:53:51 : INFO] - Re_Smush_It_Task - attachment ID : 414, started on : August 28, 2024 05:53:51 
+[2024-08-28 17:53:51 : INFO] - File: Medit-slider.png, Compression quality: 92 
+[2024-08-28 17:53:52 : INFO] - Backing up the original image - 2024/08/Medit-slider-updraft-pre-smush-original.png 
+[2024-08-28 17:53:54 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-28 17:53:54 : INFO] - Successfully optimized the image - /home/azrvhurb/public_html/wp-content/uploads/2024/08/Medit-slider.png.The file was compressed from 205.27 KB to 74.24 KB, saving 63.84 percent, using WP-Optimize 
+[2024-08-28 17:53:54 : INFO] - Completed processing task with ID : 18, and type 'smush' 
+[2024-08-28 17:54:05 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-08-28 17:54:06 : INFO] - Processing task with ID : 19, and type 'smush' 
+[2024-08-28 17:54:06 : INFO] - Re_Smush_It_Task - attachment ID : 413, started on : August 28, 2024 05:54:06 
+[2024-08-28 17:54:06 : INFO] - File: Koukaki-slider.png, Compression quality: 92 
+[2024-08-28 17:54:06 : INFO] - Backing up the original image - 2024/08/Koukaki-slider-updraft-pre-smush-original.png 
+[2024-08-28 17:54:08 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-28 17:54:08 : INFO] - Successfully optimized the image - /home/azrvhurb/public_html/wp-content/uploads/2024/08/Koukaki-slider.png.The file was compressed from 218.40 KB to 73.72 KB, saving 66.24 percent, using WP-Optimize 
+[2024-08-28 17:54:08 : INFO] - Completed processing task with ID : 19, and type 'smush' 
+[2024-08-28 17:54:19 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-08-28 17:54:20 : INFO] - Processing task with ID : 20, and type 'smush' 
+[2024-08-28 17:54:20 : INFO] - Re_Smush_It_Task - attachment ID : 412, started on : August 28, 2024 05:54:19 
+[2024-08-28 17:54:20 : INFO] - File: ChicDressing-slider.png, Compression quality: 92 
+[2024-08-28 17:54:20 : INFO] - Backing up the original image - 2024/08/ChicDressing-slider-updraft-pre-smush-original.png 
+[2024-08-28 17:54:22 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-28 17:54:22 : INFO] - Successfully optimized the image - /home/azrvhurb/public_html/wp-content/uploads/2024/08/ChicDressing-slider.png.The file was compressed from 264.45 KB to 86.84 KB, saving 67.16 percent, using WP-Optimize 
+[2024-08-28 17:54:23 : INFO] - Completed processing task with ID : 20, and type 'smush' 
+[2024-08-28 17:54:38 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-08-28 17:54:39 : INFO] - Processing task with ID : 21, and type 'smush' 
+[2024-08-28 17:54:39 : INFO] - Re_Smush_It_Task - attachment ID : 394, started on : August 28, 2024 05:54:39 
+[2024-08-28 17:54:39 : INFO] - File: lighthouse.png, Compression quality: 92 
+[2024-08-28 17:54:40 : INFO] - Backing up the original image - 2024/08/lighthouse-updraft-pre-smush-original.png 
+[2024-08-28 17:54:40 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-28 17:54:40 : INFO] - Successfully optimized the image - /home/azrvhurb/public_html/wp-content/uploads/2024/08/lighthouse.png.The file was compressed from 23.56 KB to 8.98 KB, saving 61.88 percent, using WP-Optimize 
+[2024-08-28 17:54:40 : INFO] - Completed processing task with ID : 21, and type 'smush' 
+[2024-08-28 17:59:33 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-08-28 17:59:35 : INFO] - Processing task with ID : 22, and type 'smush' 
+[2024-08-28 17:59:35 : INFO] - Re_Smush_It_Task - attachment ID : 424, started on : August 28, 2024 05:59:33 
+[2024-08-28 17:59:35 : INFO] - File: Planty-slider.png, Compression quality: 92 
+[2024-08-28 17:59:35 : INFO] - Backing up the original image - 2024/08/Planty-slider-updraft-pre-smush-original.png 
+[2024-08-28 17:59:37 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-28 17:59:37 : INFO] - Successfully optimized the image - /home/azrvhurb/public_html/wp-content/uploads/2024/08/Planty-slider.png.The file was compressed from 115.35 KB to 48.16 KB, saving 58.25 percent, using WP-Optimize 
+[2024-08-28 17:59:37 : INFO] - Completed processing task with ID : 22, and type 'smush' 
+[2024-08-28 19:06:03 : INFO] - Pruning the smush log file 

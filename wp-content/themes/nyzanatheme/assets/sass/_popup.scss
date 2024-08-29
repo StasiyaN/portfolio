@@ -1,0 +1,59 @@
+.contact-popup {
+    display: none; /* Initially hidden */
+    position: fixed; /* Change to fixed */
+    top: 0; /* Full height from the top */
+    left: 0; /* Full width from the left */
+    width: 100%; /* Full width of the viewport */
+    height: 100%; /* Full height of the viewport */
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.85); /* Dark overlay */
+    z-index: 1000; /* Ensure it overlays the page content */
+}
+
+.popup-wrapper {
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 90%; /* Adjust width to be more responsive */
+    max-width: 592px; /* Maintain the maximum width */
+    height: 90vh; /* Set height to 90% of the viewport height */
+    max-height: 100%; /* Ensure it doesn’t overflow the screen height */
+    overflow-y: auto; /* Allow scrolling if content overflows */
+    background-color: #fff;
+    box-sizing: border-box; /* Include padding and border in width/height */
+    padding: 20px; /* Optional padding */
+    border-radius: 8px; /* Optional for rounded corners */
+}
+
+.active {
+    display: flex;
+ }
+
+ 
+ body .page-content.hidden {
+   display: none;
+}
+
+.popup-header img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: auto;
+    opacity: 0.6;
+    margin-bottom: 15px;
+}
+
+#wpcf7-f47-o1 {
+    position: absolute;
+    top: 20%;
+}
+.send-btn {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-bottom: 30px;
+}

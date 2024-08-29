@@ -1,0 +1,369 @@
+@charset "UTF-8";
+* {
+  font-family: "Quicksand", sans-serif !important;
+}
+* h1 {
+  font-family: "Permanent Marker" !important;
+  font-size: 45px;
+  font-weight: 700;
+  color: #103436;
+  text-transform: uppercase;
+}
+* h2 {
+  font-family: "Montserrat", sans-serif !important;
+  font-size: 50px;
+  font-weight: 500;
+  color: #154b4d;
+}
+* a {
+  text-decoration: none !important;
+}
+* p {
+  text-align: justify;
+}
+
+#menu-contact-btn {
+  cursor: pointer;
+  color: #09767a !important;
+}
+
+#menu-contact-btn:hover {
+  transform: scale(1.1);
+}
+
+.primary-menu li a:hover {
+  transform: scale(1.1);
+}
+
+.front-page-content {
+  height: auto;
+}
+
+.content-block {
+  margin: 0 60px !important;
+  display: flex;
+  gap: 80px;
+}
+
+.photo-block {
+  width: 60% !important;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.project-photo img,
+.project-list img {
+  transition: transform 0.3s ease-in-out; /* Adjust the duration and timing function as needed */
+}
+
+.project-photo img:hover,
+.project-list img:hover {
+  transform: scale(1.1);
+}
+
+.mission-skills-block {
+  width: 60% !important;
+}
+
+.mission-block {
+  width: 600px !important;
+}
+
+.skills-heading,
+.project-heading {
+  font-family: "Permanent Marker" !important;
+}
+
+.project-heading {
+  margin-left: 150px;
+}
+
+.skills-gallery {
+  margin-left: 10vw;
+}
+
+.skills-gallery img {
+  width: 100px !important;
+  height: 100px !important;
+  transition: transform 0.3s ease-in-out; /* Adjust the duration and timing function as needed */
+}
+
+.skills-gallery img:hover {
+  transform: scale(1.05);
+}
+
+.wp-element-caption {
+  width: 100px !important;
+  padding: 0 !important;
+}
+
+.categories-block {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+.hard-skills-block {
+  margin-left: 20% !important;
+  margin-bottom: 100px !important;
+}
+
+.wp-block-group__inner-container .is-layout-constrained .wp-block-group-is-layout-constrained {
+  display: flex;
+  flex-direction: row;
+}
+
+.wp-block-heading,
+.has-text-align-center,
+.soft-skills-h3 {
+  margin-top: 0 !important;
+}
+
+.wp-block-columns h3 {
+  font-weight: 500 !important;
+  color: #09767a !important;
+  font-size: 30px;
+  transition: transform 0.3s ease-in-out; /* Adjust the duration and timing function as needed */
+}
+
+.wp-block-columns h3:hover {
+  transform: scale(1.1);
+}
+
+.soft-skills h3 {
+  margin-top: 0 !important;
+}
+
+.wp-block-list li {
+  list-style-type: circle;
+}
+
+.category-item img {
+  width: 50px;
+  height: 50px;
+}
+
+.wp-block-button__link {
+  transition: transform 0.3s ease-in-out; /* Adjust the duration and timing function as needed */
+}
+
+.wp-block-button__link:hover {
+  color: black !important;
+  background-color: #91aba9 !important;
+  transform: scale(1.02);
+}
+
+hr {
+  display: none !important;
+}
+
+.pagination-single-inner {
+  height: 80px;
+}
+
+.toggle-text {
+  display: none;
+}
+
+#site-footer .section-inner {
+  justify-content: space-evenly;
+}
+
+.email img {
+  margin-left: 40px !important;
+  transition: transform 0.3s ease-in-out; /* Adjust the duration and timing function as needed */
+}
+
+.email img:hover {
+  transform: scale(1.2);
+}
+
+.contact-popup {
+  display: none; /* Initially hidden */
+  position: fixed; /* Change to fixed */
+  top: 0; /* Full height from the top */
+  left: 0; /* Full width from the left */
+  width: 100%; /* Full width of the viewport */
+  height: 100%; /* Full height of the viewport */
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.85); /* Dark overlay */
+  z-index: 1000; /* Ensure it overlays the page content */
+}
+
+.popup-wrapper {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 90%; /* Adjust width to be more responsive */
+  max-width: 592px; /* Maintain the maximum width */
+  height: 90vh; /* Set height to 90% of the viewport height */
+  max-height: 100%; /* Ensure it doesn’t overflow the screen height */
+  overflow-y: auto; /* Allow scrolling if content overflows */
+  background-color: #fff;
+  box-sizing: border-box; /* Include padding and border in width/height */
+  padding: 20px; /* Optional padding */
+  border-radius: 8px; /* Optional for rounded corners */
+}
+
+.active {
+  display: flex;
+}
+
+body .page-content.hidden {
+  display: none;
+}
+
+.popup-header img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: auto;
+  opacity: 0.6;
+  margin-bottom: 15px;
+}
+
+#wpcf7-f47-o1 {
+  position: absolute;
+  top: 20%;
+}
+
+.send-btn {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-bottom: 30px;
+}
+
+.entry-content > *:not(.alignwide):not(.alignfull):not(.alignleft):not(.alignright):not(.is-style-wide) {
+  max-width: 100rem;
+}
+
+[class*=__inner-container] > *:not(.alignwide):not(.alignfull):not(.alignleft):not(.alignright):not(.is-style-wide) {
+  max-width: 100rem;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.git-icon img {
+    width: 80px;
+    height: 80px;
+    transition: transform 0.3s ease-in-out; 
+}
+
+.git-icon img:hover {
+    transform: scale(1.2);
+    cursor: pointer;
+}
+
+.git img,
+.linkedin img,
+.email img {
+  width: 30px;
+  height: 30px;
+}
+
+.git img:hover,
+.linkedin img:hover,
+.email img:hover {
+  cursor: pointer;
+}
+
+.archive-content {
+  display: flex;
+}
+
+.archive-content .archive-link {
+  margin-left: 50px;
+}
+
+.banner img {
+  width: 100%;
+  height: auto;
+  animation: zoomIn 10s ease-in-out infinite;
+  object-fit: cover; /* Ensure the image covers the entire banner area */
+}
+
+/* Define the keyframes for the zoom-in animation */
+@keyframes zoomIn {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+@media (max-width: 1024px) {
+  .hard-skills-block {
+    margin-left: 12% !important;
+  }
+  .mission-block {
+    width: auto !important;
+  }
+  .categories-block {
+    justify-content: center;
+  }
+}
+@media (max-width: 960px) {
+    h2 {
+        font-size: 40px;
+    }
+  .archive-content {
+    margin-left: 0 !important;
+  }
+  .email img {
+    display: none;
+  }
+  .header-titles {
+    display: none !important;
+  }
+}
+@media (max-width: 781px) {
+  .project-heading {
+    margin-left: 55px;
+  }
+  .content-block {
+    flex-direction: column-reverse;
+    flex-wrap: wrap;
+    align-content: center;
+    gap: 0 !important;
+  }
+  .mission-skills-block,
+  .photo-block {
+    width: 100% !important;
+  }
+  .archive-content {
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+  }
+}
+@media (max-width: 599px) {
+  .pagination-single-inner {
+    flex-wrap: wrap;
+    align-content: center;
+  }
+}
+@media (max-width: 400px) {
+  * h2 {
+    font-size: 30px;
+  }
+  .categories-block {
+    gap: 5px;
+  }
+}
+
+/*# sourceMappingURL=main.css.map */

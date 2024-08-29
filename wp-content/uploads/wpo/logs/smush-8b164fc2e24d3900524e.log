@@ -1,0 +1,33 @@
+[2024-08-27 13:08:40 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-08-27 13:08:41 : INFO] - Processing task with ID : 1, and type 'smush' 
+[2024-08-27 13:08:41 : INFO] - Re_Smush_It_Task - attachment ID : 316, started on : August 27, 2024 01:08:41 
+[2024-08-27 13:08:41 : INFO] - File: simplvintage.png, Compression quality: 92 
+[2024-08-27 13:08:43 : INFO] - Backing up the original image - 2024/08/simplvintage-updraft-pre-smush-original.png 
+[2024-08-27 13:08:53 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-27 13:08:53 : INFO] - Successfully optimized the image - C:\xampp\htdocs\nyzana/wp-content/uploads/2024/08/simplvintage.png.The file was compressed from 1.78 MB to 694.71 KB, saving 61.82 percent, using WP-Optimize 
+[2024-08-27 13:08:53 : INFO] - Completed processing task with ID : 1, and type 'smush' 
+[2024-08-27 13:09:25 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-08-27 13:09:26 : INFO] - Processing task with ID : 2, and type 'smush' 
+[2024-08-27 13:09:26 : INFO] - Re_Smush_It_Task - attachment ID : 315, started on : August 27, 2024 01:09:26 
+[2024-08-27 13:09:26 : INFO] - File: planty.png, Compression quality: 92 
+[2024-08-27 13:09:27 : INFO] - Backing up the original image - 2024/08/planty-updraft-pre-smush-original.png 
+[2024-08-27 13:09:34 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-27 13:09:34 : INFO] - Successfully optimized the image - C:\xampp\htdocs\nyzana/wp-content/uploads/2024/08/planty.png.The file was compressed from 803.61 KB to 264.95 KB, saving 67.03 percent, using WP-Optimize 
+[2024-08-27 13:09:34 : INFO] - Completed processing task with ID : 2, and type 'smush' 
+[2024-08-27 13:10:05 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-08-27 13:10:06 : INFO] - Processing task with ID : 3, and type 'smush' 
+[2024-08-27 13:10:06 : INFO] - Re_Smush_It_Task - attachment ID : 314, started on : August 27, 2024 01:10:06 
+[2024-08-27 13:10:06 : INFO] - File: nm.png, Compression quality: 92 
+[2024-08-27 13:10:08 : INFO] - Backing up the original image - 2024/08/nm-updraft-pre-smush-original.png 
+[2024-08-27 13:10:21 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-27 13:10:21 : INFO] - Successfully optimized the image - C:\xampp\htdocs\nyzana/wp-content/uploads/2024/08/nm.png.The file was compressed from 1.76 MB to 605.67 KB, saving 66.33 percent, using WP-Optimize 
+[2024-08-27 13:10:21 : INFO] - Completed processing task with ID : 3, and type 'smush' 
+[2024-08-27 13:10:42 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-08-27 13:10:43 : INFO] - Processing task with ID : 4, and type 'smush' 
+[2024-08-27 13:10:43 : INFO] - Re_Smush_It_Task - attachment ID : 313, started on : August 27, 2024 01:10:43 
+[2024-08-27 13:10:43 : INFO] - File: koukaki.png, Compression quality: 92 
+[2024-08-27 13:10:45 : INFO] - Backing up the original image - 2024/08/koukaki-updraft-pre-smush-original.png 
+[2024-08-27 13:10:54 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-08-27 13:10:54 : INFO] - Successfully optimized the image - C:\xampp\htdocs\nyzana/wp-content/uploads/2024/08/koukaki.png.The file was compressed from 1.30 MB to 449.70 KB, saving 66.24 percent, using WP-Optimize 
+[2024-08-27 13:10:54 : INFO] - Completed processing task with ID : 4, and type 'smush' 
+[2024-08-27 17:17:13 : INFO] - Pruning the smush log file 

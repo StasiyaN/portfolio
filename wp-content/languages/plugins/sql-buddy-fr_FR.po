@@ -1,0 +1,77 @@
+# Translation of Plugins - SQL Buddy &#8211; Database Management Made Easy - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - SQL Buddy &#8211; Database Management Made Easy - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-01-12 15:53:36+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - SQL Buddy &#8211; Database Management Made Easy - Stable (latest release)\n"
+
+#: includes/templates/admin/dashboard.php:18
+msgid "Please wait..."
+msgstr "Veuillez patienter…"
+
+#: includes/REST_API/Table_Controller.php:186
+msgid "Columns list which should be hidden."
+msgstr "Liste des colonnes qui doivent être masquées."
+
+#. Plugin Name of the plugin
+#: includes/Dashboard.php:55 includes/Dashboard.php:56
+#: assets/js/sql-buddy-dashboard.js:1
+msgid "SQL Buddy"
+msgstr "SQL Buddy"
+
+#. Plugin URI of the plugin
+msgid "https://deliciousbrains.com/sql-buddy"
+msgstr "https://deliciousbrains.com/sql-buddy"
+
+#. Author URI of the plugin
+msgid "https://deliciousbrains.com"
+msgstr "https://deliciousbrains.com"
+
+#. Author of the plugin
+msgid "Delicious Brains"
+msgstr "Delicious Brains"
+
+#: includes/REST_API/Table_Controller.php:84
+msgid "Name of the table."
+msgstr "Nom de la table."
+
+#. translators: %s: build commands.
+#: includes/namespace.php:72
+msgid "You appear to be running an incomplete version of the plugin. Please run %s to finish installation."
+msgstr "Vous semblez exécuter une version incomplète de l’extension. Veuillez exécuter %s pour terminer l’installation."
+
+#: includes/namespace.php:65
+msgid "SQL Buddy plugin could not be initialized."
+msgstr "L’extension SQL Buddy n’a pas pu être initialisée."
+
+#: includes/namespace.php:28
+msgid "Plugin could not be activated"
+msgstr "L’extension n’a pas pu être activée"
+
+#. translators: %s: PHP version number
+#: includes/namespace.php:27
+msgid "SQL Buddy requires PHP %s or higher."
+msgstr "SQL Buddy nécessite PHP %s ou ultérieure."
+
+#: includes/REST_API/Table_Controller.php:119
+#: includes/REST_API/Table_Controller.php:150
+msgid "Name of table you want to delete."
+msgstr "Nom de la table que vous souhaitez supprimer."
+
+#: includes/REST_API/Table_Controller.php:96
+msgid "The number of table records to offset to skip."
+msgstr "Le nombre d’enregistrements de la table à décaler pour passer."
+
+#: includes/REST_API/Table_Controller.php:89
+msgid "The number of table records to show."
+msgstr "Le nombre d’enregistrements de la table à afficher."
+
+#. Description of the plugin
+msgid "Your one-stop solution for WordPress database management. Edit your table data with a clean and straightforward user interface."
+msgstr "Votre solution unique pour la gestion des bases de données WordPress. Modifiez les données de vos tables avec une interface utilisateur claire et simple."

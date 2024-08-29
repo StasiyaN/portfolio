@@ -1,0 +1,192 @@
+* {
+    font-family: "Quicksand", sans-serif !important;
+
+
+    h1 {
+        font-family: "Permanent Marker" !important;
+        font-size: 45px;
+        font-weight: 700;
+        color: #103436;
+        text-transform: uppercase;
+    }
+
+    h2 {
+        font-family: "Montserrat", sans-serif !important; 
+        font-size: 50px;
+        font-weight: 500;
+        color: #154b4d;
+    }
+
+    a {
+        text-decoration: none !important;
+    }
+
+    p {
+        text-align: justify;
+    }
+   
+}
+
+#menu-contact-btn {
+    cursor: pointer;
+    color: #09767a !important;
+    
+}
+#menu-contact-btn:hover {
+   transform: scale(1.1);
+   
+}
+
+.primary-menu li a:hover {
+    transform: scale(1.1);
+
+}
+
+.front-page-content {
+    height: auto;
+}
+
+//content page
+.content-block {
+   margin: 0 60px !important;
+   display: flex;
+   gap: 80px;
+}
+
+.photo-block {
+    width: 60% !important;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.project-photo img,
+.project-list img {
+    transition: transform 0.3s ease-in-out; /* Adjust the duration and timing function as needed */
+}
+.project-photo img:hover,
+.project-list img:hover {
+    transform: scale(1.1);
+}
+
+//MISSION SKILLS BLOCK
+.mission-skills-block {
+    width: 60% !important;
+}
+.mission-block {
+    width: 600px !important;
+}
+
+// SKILLS
+.skills-heading,
+.project-heading {
+    font-family: "Permanent Marker" !important;;
+}
+
+.project-heading {
+    margin-left: 150px;
+}
+.skills-gallery {
+    margin-left: 10vw;
+}
+.skills-gallery img {
+    width: 100px !important;
+    height: 100px !important;
+    transition: transform 0.3s ease-in-out; /* Adjust the duration and timing function as needed */
+}
+.skills-gallery img:hover {
+    transform: scale(1.05);
+}
+
+.wp-element-caption {
+    width: 100px !important;
+    padding: 0 !important;
+}
+
+.categories-block {
+    display: flex;
+    gap: 30px;
+}
+
+//ABOUT PAGE
+//hard skills
+.hard-skills-block {
+    margin-left: 20% !important;
+    margin-bottom: 100px !important;
+}
+
+//soft skills
+.wp-block-group__inner-container .is-layout-constrained .wp-block-group-is-layout-constrained {
+    display: flex;
+    flex-direction: row;
+}
+
+.wp-block-heading,
+.has-text-align-center,
+.soft-skills-h3 {
+    margin-top: 0 !important;
+}
+.wp-block-columns h3 {
+    font-weight: 500 !important;
+    color: #09767a !important;
+    font-size: 30px;
+    transition: transform 0.3s ease-in-out; /* Adjust the duration and timing function as needed */
+
+}
+.wp-block-columns h3:hover {
+    transform: scale(1.1);
+}
+
+.soft-skills h3 {
+    margin-top: 0 !important;
+}
+
+.wp-block-list li {
+    list-style-type: circle;
+}
+//PROJECT PAGE
+.category-item img {
+    width: 50px;
+    height: 50px;
+}
+
+
+.wp-block-button__link {
+    transition: transform 0.3s ease-in-out; /* Adjust the duration and timing function as needed */
+
+}
+.wp-block-button__link:hover {
+    color: black !important;
+    background-color: #91aba9 !important;
+    transform: scale(1.02);
+}
+
+hr {
+    display: none !important;
+}
+
+.pagination-single-inner {
+    height: 80px;
+}
+
+//menu mobile
+.toggle-text {
+    display: none;
+}
+
+//footer
+#site-footer .section-inner {
+    justify-content: space-evenly;
+}
+
+.email img {
+    margin-left: 40px !important;
+    transition: transform 0.3s ease-in-out; /* Adjust the duration and timing function as needed */
+
+}
+
+.email img:hover {
+    transform: scale(1.2);
+}
+

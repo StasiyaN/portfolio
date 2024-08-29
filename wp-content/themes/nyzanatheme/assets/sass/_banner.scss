@@ -1,0 +1,19 @@
+.banner img {
+    width: 100%;
+    height: auto;
+    animation: zoomIn 10s ease-in-out infinite;
+    object-fit: cover; /* Ensure the image covers the entire banner area */
+}
+
+/* Define the keyframes for the zoom-in animation */
+@keyframes zoomIn {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.1);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
