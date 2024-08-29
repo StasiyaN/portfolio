@@ -5,6 +5,24 @@
     object-fit: cover; /* Ensure the image covers the entire banner area */
 }
 
+.banner {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+
+.banner-header {
+    position: absolute;
+    top: -200px; /* Start position (above the visible area) */
+    width: 100%;
+    text-align: center;
+    animation: slideDown 1s ease-out forwards;
+    animation-delay: 1s; /* Optional: Delay the animation to sync with other animations */
+}
+
 /* Define the keyframes for the zoom-in animation */
 @keyframes zoomIn {
     0% {
@@ -15,5 +33,16 @@
     }
     100% {
         transform: scale(1);
+    }
+}
+
+@keyframes slideDown {
+    from {
+        top: -50px; /* Start position */
+        opacity: 0;
+    }
+    to {
+        top: 40%; /* End position (adjust as needed) */
+        opacity: 1;
     }
 }

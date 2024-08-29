@@ -3,11 +3,10 @@
   font-family: "Quicksand", sans-serif !important;
 }
 * h1 {
-  font-family: "Permanent Marker" !important;
-  font-size: 45px;
-  font-weight: 700;
+  font-family: "Montserrat", sans-serif !important;
+  font-size: 60px;
+  font-weight: 600;
   color: #103436;
-  text-transform: uppercase;
 }
 * h2 {
   font-family: "Montserrat", sans-serif !important;
@@ -22,17 +21,13 @@
   text-align: justify;
 }
 
-#menu-contact-btn {
-  cursor: pointer;
-  color: #09767a !important;
-}
-
-#menu-contact-btn:hover {
-  transform: scale(1.1);
-}
-
 .primary-menu li a:hover {
   transform: scale(1.1);
+}
+
+.primary-menu-wrapper,
+.header-inner .toggle {
+  color: #103436;
 }
 
 .front-page-content {
@@ -101,7 +96,6 @@
 
 .categories-block {
   display: flex;
-  flex-wrap: wrap;
   gap: 30px;
 }
 
@@ -255,17 +249,6 @@ body .page-content.hidden {
   margin-bottom: 30px;
 }
 
-.git-icon img {
-    width: 80px;
-    height: 80px;
-    transition: transform 0.3s ease-in-out; 
-}
-
-.git-icon img:hover {
-    transform: scale(1.2);
-    cursor: pointer;
-}
-
 .git img,
 .linkedin img,
 .email img {
@@ -281,6 +264,7 @@ body .page-content.hidden {
 
 .archive-content {
   display: flex;
+  margin-left: 80px;
 }
 
 .archive-content .archive-link {
@@ -292,6 +276,23 @@ body .page-content.hidden {
   height: auto;
   animation: zoomIn 10s ease-in-out infinite;
   object-fit: cover; /* Ensure the image covers the entire banner area */
+}
+
+.banner {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.banner-header {
+  position: absolute;
+  top: -200px; /* Start position (above the visible area) */
+  width: 100%;
+  text-align: center;
+  animation: slideDown 1s ease-out forwards;
+  animation-delay: 1s; /* Optional: Delay the animation to sync with other animations */
 }
 
 /* Define the keyframes for the zoom-in animation */
@@ -306,6 +307,16 @@ body .page-content.hidden {
     transform: scale(1);
   }
 }
+@keyframes slideDown {
+  from {
+    top: -50px; /* Start position */
+    opacity: 0;
+  }
+  to {
+    top: 40%; /* End position (adjust as needed) */
+    opacity: 1;
+  }
+}
 @media (max-width: 1024px) {
   .hard-skills-block {
     margin-left: 12% !important;
@@ -318,9 +329,6 @@ body .page-content.hidden {
   }
 }
 @media (max-width: 960px) {
-    h2 {
-        font-size: 40px;
-    }
   .archive-content {
     margin-left: 0 !important;
   }
@@ -332,6 +340,9 @@ body .page-content.hidden {
   }
 }
 @media (max-width: 781px) {
+  .banner-header {
+    font-size: 45px;
+  }
   .project-heading {
     margin-left: 55px;
   }
@@ -352,12 +363,18 @@ body .page-content.hidden {
   }
 }
 @media (max-width: 599px) {
+  .banner-header {
+    font-size: 30px;
+  }
   .pagination-single-inner {
     flex-wrap: wrap;
     align-content: center;
   }
 }
 @media (max-width: 400px) {
+  .banner-header {
+    font-size: 25px;
+  }
   * h2 {
     font-size: 30px;
   }

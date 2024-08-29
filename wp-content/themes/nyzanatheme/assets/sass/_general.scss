@@ -3,11 +3,10 @@
 
 
     h1 {
-        font-family: "Permanent Marker" !important;
-        font-size: 45px;
-        font-weight: 700;
+        font-family: "Montserrat", sans-serif !important;
+        font-size: 60px;
+        font-weight: 600;
         color: #103436;
-        text-transform: uppercase;
     }
 
     h2 {
@@ -27,20 +26,16 @@
    
 }
 
-#menu-contact-btn {
-    cursor: pointer;
-    color: #09767a !important;
-    
-}
-#menu-contact-btn:hover {
-   transform: scale(1.1);
-   
-}
 
 .primary-menu li a:hover {
     transform: scale(1.1);
-
 }
+
+.primary-menu-wrapper,
+.header-inner .toggle {
+    color: #103436;
+}
+
 
 .front-page-content {
     height: auto;

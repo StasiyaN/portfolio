@@ -2,7 +2,8 @@
 
 <main id="site-content">
     	<div class="banner">
-			<img src="<?php echo get_stylesheet_directory_uri() . '/assets/img/banner.jpg';?>" alt="banniere du site">
+			<img src="<?php echo get_stylesheet_directory_uri() . '/assets/img/banner_neu.jpg';?>" alt="banniere du site">
+			<h1 class="banner-header">Développement WordPress</h1>
 		
 		</div>
 	
